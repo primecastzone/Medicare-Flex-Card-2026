@@ -1,9 +1,9 @@
-- name: Debug files
+- name: Debug
   run: |
     pwd
     ls -la
-    find . -type d
+    ls -la docs
+    cat mkdocs.yml
 
 - name: Build site
-  run: |
-    mkdocs build
+  run: mkdocs build
