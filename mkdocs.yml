@@ -1,5 +1,7 @@
 site_name: Medicare Flex Card 2026 Guide
 
+docs_dir: docs
+
 theme:
   name: mkdocs
 
