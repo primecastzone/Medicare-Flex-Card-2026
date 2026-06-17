@@ -5,7 +5,7 @@
 
 The **Medicare Flex Card 2026** is a benefit offered through certain **Medicare Advantage (Part C) plans**. It is a prepaid card that provides a limited allowance to help eligible members pay for approved health-related expenses.
 
-This card is not a standalone government program. Instead, it is an optional benefit included by private insurance companies within specific Medicare Advantage plans.
+This card is not a standalone government program. Instead, it is an optional benefit included by private insurance companies within specific Medicare Advantage plans.  
 
 ---
 
